@@ -1,1 +1,3 @@
-GNU LICENSE 2012
+here is my readme
+
+this cake is a lie
